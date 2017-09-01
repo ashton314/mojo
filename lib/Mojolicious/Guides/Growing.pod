@@ -325,8 +325,8 @@ once.
 
 =head2 Testing
 
-In L<Mojolicious> we take testing very serious and try to make it a pleasant
-experience.
+In L<Mojolicious> we take testing very seriously and try to make it a
+pleasant experience.
 
   $ mkdir t
   $ touch t/login.t
